@@ -21,9 +21,7 @@ void Zoo::ListAnimals() {
     cout << "Zoo list:\n";
      for( int i = 0; i < Animals.size(); i++ ) {
      	if(Animals[i]) cout << Animals[i]->ToString() << endl;
-//        cout << remove_reference<Animal&>::type(Animals[i]).ToString();
      }
-//    for( auto a : Animals ) cout << a->ToString() << endl;
 }
 
 void Zoo::AddAnimal( Animal *animal ) {
@@ -45,9 +43,7 @@ void Zoo::Performance() {
 			if( Animals[i] ) 
 				Animals[i]->ShowTalents();	
 		}
-        // cout << Animals[i].ToString();
     }
-//    for(auto a: Animals ) a.ShowTalents();
 }
 
 string Zoo::GetName() {
