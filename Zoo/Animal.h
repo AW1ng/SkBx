@@ -1,6 +1,5 @@
 #pragma once
 #include "talent.h"
-// #include <string>
 #include <vector>
 #include "zoo.h"
 
@@ -22,5 +21,5 @@ class Animal {
 		void ShowTalents();
 		vector<Zoo*> *GetWorkPlaces();
 		void RemoveWorkPlace(Zoo *zoo );
-		// Talent* GetTalent();
+
 };
