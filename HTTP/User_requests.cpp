@@ -126,7 +126,6 @@ class Requester {
                 R = cpr::Post(cpr::Url{url + "/post"}, cpr::Payload(TemPair.begin(), TemPair.end()) );
                          
             }
-            
         
         }
 
@@ -145,20 +144,12 @@ int main() {
     // Req.ProceedPut(); Req.PrintR();
     // Req.DeleteReq(); Req.PrintR();
     // Req.ProceedPatch(); Req.PrintR();
-    Req.GetHead(); Req.PrintR();
+	
+    Req.GetHead(); Req.PrintR(); // 2 Part
 
-    // vector<string> Keys = {"First_key", "Second_key", "Third_key" };
-    // vector<string> Values = {"First_val", "Second_val", "Third_val" };
-    // cout << Keys << Values;
-    // map<string, string> KVMap;
-    // for( int i = 0; i < Keys.size() && i < Values.size(); i++ ) {
-    //     pair< string, string > TempPair( Keys[i], Values[i] );
-    //     cout << TempPair.first + " ; " + TempPair.second << endl;
-    //     KVMap[ TempPair.first ] = TempPair.second;
-    // }
-    // cout << KVMap << endl;
-
-    Req.ReqWithArgs(); Req.PrintR();
+	
+    Req.ReqWithArgs(); // 3 Part
+    Req.PrintR();
 
 
 }
