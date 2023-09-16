@@ -21,9 +21,6 @@ Animal::~Animal() {
 	WorkPlaces.clear();
 }
 
-/*void Animal::GetVoice() {
-	cout << "Default animal voice\n";
-}*/
 
 string Animal::ToString() {
 	string result = Name + " ";
@@ -41,7 +38,6 @@ void Animal::AddTalent(Talent *talent)  {
 	Talanted.push_back( talent );
 }
 
-// Talent* Animal::GetTalent() { return Talanted; }
 void Animal::ShowTalents() {
 	cout << ToString() + "has talents:\n";
 	for(int i = 0; i < Talanted.size(); i++) {
