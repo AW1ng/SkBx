@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/FeatureSummary.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/Internal/CheckSourceRuns.cmake
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-build/zconf.h.cmakein
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-src/CMakeLists.txt
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-src/cmake/detect-arch.cmake
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-src/cmake/detect-coverage.cmake
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-src/cmake/detect-install-dirs.cmake
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-src/cmake/detect-sanitizer.cmake
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-src/zlib.pc.cmakein

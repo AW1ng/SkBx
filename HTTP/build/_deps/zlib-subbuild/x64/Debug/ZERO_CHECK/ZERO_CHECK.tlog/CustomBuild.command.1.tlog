@@ -1,0 +1,10 @@
+^C:\USERS\ALEX_DEV\DESKTOP\PROG\SKILL\HTTP\1.USERS REQUESTS\BUILD\_DEPS\ZLIB-SUBBUILD\CMAKEFILES\BEF7712AFE286AAC0E325B9992C5E204\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild" "-BC:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/zlib-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

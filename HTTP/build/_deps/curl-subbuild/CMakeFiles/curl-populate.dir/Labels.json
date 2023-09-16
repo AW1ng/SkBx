@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/curl-populate"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/d1a82e725b7279d82f05d523b495c35f/curl-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/1e1740113207af820c058bcb0427e485/curl-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/e33c57d31e0fbcade799935dbea6f96e/curl-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/e33c57d31e0fbcade799935dbea6f96e/curl-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/e33c57d31e0fbcade799935dbea6f96e/curl-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/e33c57d31e0fbcade799935dbea6f96e/curl-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/e33c57d31e0fbcade799935dbea6f96e/curl-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/e33c57d31e0fbcade799935dbea6f96e/curl-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/e33c57d31e0fbcade799935dbea6f96e/curl-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/curl-subbuild/CMakeFiles/e33c57d31e0fbcade799935dbea6f96e/curl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"curl-populate"
+		],
+		"name" : "curl-populate"
+	}
+}

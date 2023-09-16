@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/bef7712afe286aac0e325b9992c5e204/zlib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/c7a4464ee2c85d5d637001bee86e4e09/zlib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/16a9a0178c9cf5ddf54479bad5d25906/zlib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/16a9a0178c9cf5ddf54479bad5d25906/zlib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/16a9a0178c9cf5ddf54479bad5d25906/zlib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/16a9a0178c9cf5ddf54479bad5d25906/zlib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/16a9a0178c9cf5ddf54479bad5d25906/zlib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/16a9a0178c9cf5ddf54479bad5d25906/zlib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/16a9a0178c9cf5ddf54479bad5d25906/zlib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/zlib-subbuild/CMakeFiles/16a9a0178c9cf5ddf54479bad5d25906/zlib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zlib-populate"
+		],
+		"name" : "zlib-populate"
+	}
+}

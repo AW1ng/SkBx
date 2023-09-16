@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\e33c57d31e0fbcade799935dbea6f96e\curl-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\e33c57d31e0fbcade799935dbea6f96e\curl-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\e33c57d31e0fbcade799935dbea6f96e\curl-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\e33c57d31e0fbcade799935dbea6f96e\curl-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\e33c57d31e0fbcade799935dbea6f96e\curl-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\e33c57d31e0fbcade799935dbea6f96e\curl-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\e33c57d31e0fbcade799935dbea6f96e\curl-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\e33c57d31e0fbcade799935dbea6f96e\curl-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\1e1740113207af820c058bcb0427e485\curl-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\d1a82e725b7279d82f05d523b495c35f\curl-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\curl-subbuild\CMakeFiles\curl-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{56CD08B3-B6D9-326F-BDB3-BA6BDFCE092E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

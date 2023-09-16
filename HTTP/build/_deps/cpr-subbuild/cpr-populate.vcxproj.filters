@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\b800ab494fd71d7244d2134677b16320\cpr-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\b800ab494fd71d7244d2134677b16320\cpr-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\b800ab494fd71d7244d2134677b16320\cpr-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\b800ab494fd71d7244d2134677b16320\cpr-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\b800ab494fd71d7244d2134677b16320\cpr-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\b800ab494fd71d7244d2134677b16320\cpr-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\b800ab494fd71d7244d2134677b16320\cpr-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\b800ab494fd71d7244d2134677b16320\cpr-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\7e3198575402f361d776c8e8e135f66a\cpr-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\a8c71c469f73abab154676b88188073d\cpr-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\cpr-subbuild\CMakeFiles\cpr-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2DFEFFC0-0DD9-3111-9DC0-3FE052184141}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\16a9a0178c9cf5ddf54479bad5d25906\zlib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\16a9a0178c9cf5ddf54479bad5d25906\zlib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\16a9a0178c9cf5ddf54479bad5d25906\zlib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\16a9a0178c9cf5ddf54479bad5d25906\zlib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\16a9a0178c9cf5ddf54479bad5d25906\zlib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\16a9a0178c9cf5ddf54479bad5d25906\zlib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\16a9a0178c9cf5ddf54479bad5d25906\zlib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\16a9a0178c9cf5ddf54479bad5d25906\zlib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\c7a4464ee2c85d5d637001bee86e4e09\zlib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\bef7712afe286aac0e325b9992c5e204\zlib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Alex_dev\Desktop\Prog\skill\HTTP\1.Users requests\build\_deps\zlib-subbuild\CMakeFiles\zlib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F9B55C4F-5EC6-33F0-987D-6263E3B22AC3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

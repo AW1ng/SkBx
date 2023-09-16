@@ -1,0 +1,3 @@
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/cpr-subbuild/CMakeFiles/cpr-populate.dir
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/cpr-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/_deps/cpr-subbuild/CMakeFiles/ZERO_CHECK.dir

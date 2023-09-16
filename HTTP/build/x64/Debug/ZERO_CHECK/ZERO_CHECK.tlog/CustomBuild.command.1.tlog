@@ -1,0 +1,10 @@
+^C:\USERS\ALEX_DEV\DESKTOP\PROG\SKILL\HTTP\1.USERS REQUESTS\BUILD\CMAKEFILES\2CFE70A1D86B23BBA1D69539216E8DE7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests" "-BC:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Alex_dev/Desktop/Prog/skill/HTTP/1.Users requests/build/UserRequest.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
