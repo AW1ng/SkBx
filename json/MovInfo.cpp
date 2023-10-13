@@ -115,7 +115,8 @@ class JsonManager {
         } */
 
 
-        Json::Value RecieveDataKP( string parameter = "https://api.kinopoisk.dev/v1.3/movie/random", string X_API = "X-API-KEY: GYB0Z1Y-4E54K2S-MMR0F60-9YWKE75" ) {
+// info to get TOKEN(X-API-KEY) https://api.kinopoisk.dev/v1/documentation#/
+        Json::Value RecieveDataKP( string parameter = "https://api.kinopoisk.dev/v1.3/movie/random", string X_API = "X-API-KEY: " ) { 
             CURL *curl;
             CURLcode res;
             string result;
@@ -164,7 +165,7 @@ class JsonManager {
 
         void add_movie(string json_name, int amount ) {
             ofstream data(json_name );
-            Json::Value vec(Json::arrayValue);
+            //Json::Value vec(Json::arrayValue);
             for( int i = 0; i < amount; i++ ) { Movie["Movies"][i] = RecieveDataKP(); }
             data << Movie << endl; 
         }
